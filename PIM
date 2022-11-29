@@ -1,72 +1,106 @@
-App Brasa acesa: Fazer churrasco nunca foi tão facil
+
+  USCS – Universidade Municipal de São Caetano do Sul 
+                Análise e Desenvolvimento de Sistemas 
+PIM 
+Projeto Integrado Multidisciplinar 
+App Brasa acesa: Fazer churrasco nunca foi tão facil!
 Nome dos Integrantes do Grupo: 
-Gustavo mimessi - 
-Denivaldo ferreira - 
+Gustavo Mimessi - 
+Denivaldo Ferreira - 
 Daniel Ferrari - 
 Lucas Luna -
 Ésdras Souza -
 Daiane Prates -
 Lucas Nepomuceno - 
 Moises Pimenta -
-São Caetano do Sul 
-2021
+Murilo Faria -
+
+
+
+
+
+  São Caetano do Sul 
+                                                    2022
+
 
 
 
 SUMÁRIO
 
-RESUMO 
-
-ABSTRACT
-
-INTRODUÇÃO 
-
-1.   Descrição do Problema 
-      Objetivos de Negócio da Solução 
-      Objetivos 
-
-2.   Business Model Canvas
-
-      Ideação do Produto 
-      Tipos de Usuário 
-      Funcionalidades da Plataforma 
-      Produto Minimamente Viável 
-
-CONCLUSÃO
-
-BIBLIOGRAFIA 
-
-RELATÓRIO DE PARTICIPAÇÃO 
+0.0 Introdução
+1.0 Descrição do Problema
+2.0 Objetivos de Negócio da Solução
+2.1 Business Model Canvas
+3.0 Ideação do Produto
+3.1 Tipos de Usuário
+3.2 Funcionalidades da Plataforma
+3.3 Produto Minimamente Viável
+4.2 Conclusão
+4.3 Bibliografia
+4.4 Relatório de Participação
 
 
-                         App Brasa acesa:  
+App Brasa acesa:  
         Fazer churrasco nunca foi tão fácil !
 
 RESUMO 
+Brasa acesa é um app para se contratar um churrasqueiro onde se tem a praticidade de  viver uma experiência incrível com seus entes queridos sem a necessidade de ter algum trabalho pesado, o único trabalho aqui é acessar ao app BRASA ACESA, nessa plataforma você irá encontrar diversos profissionais da área todos bem capacitados para lhe proporcionar um belo churrasco profissional.
+Dicas incríveis de culinária o aguarda, onde se pode solicitar ao prestador de serviço que lhe mostre na prática ou até mesmo que lhe traga algo diferenciado, fique a vontade para montar um menu de sua preferência.
 ABSTRACT 
+Brasa Acesa is an app to hire a grill where you have the convenience of living an incredible experience with your loved ones without the need for any heavy work, the only work here is accessing the BRASA ACESA app, on this platform you will find several professionals in the area all well trained to provide you with a beautiful professional barbecue.
+Incredible cooking tips await you, where you can ask the service provider to show you in practice or even to bring you something different, feel free to put together a menu of your choice.
 
 
 
-¹ Projeto Integrado Multidisciplinar do 1º Semestre do curso de Análise e Desenvolvimento de Sistemas, Universidade  Municipal de São Caetano do Sul, 2021. 
-² Alunos do curso de Graduação Tecnológica em Análise e Desenvolvimento de Sistemas da USCS.
-1 
 
 INTRODUÇÃO 
-
 O uso da tecnologia e da internet vem se expandindo,  proporcionando novos recursos que possibilitam o acesso a múltiplas plataformas de serviços. Como exemplo, citamos os aplicativos para contratações de motoristas como Uber, reservas de hotéis como Hub, e profissionais como GetNinjas.
 Durante a pandemia o uso destes aplicativos cresceu exponencialmente. Por outro lado com o término da pandemia as pessoas retornaram a antigos hábitos como reuniões sociais muitas vezes envolvendo situações de lazer como por exemplo churrascos entre familiares e amigos.
 Porém muitas pessoas têm dificuldade para organizar um evento como este, seja pela dificuldade em achar um bom profissional ou de selecionar e quantificar os produtos e quantidades necessárias.
-Com o intuito de ajudar este nicho de mercado, o objetivo deste trabalho é criar o App Brasa Acesa, para ajudar a produção de churrascos de qualidade, sem sair do conforto de suas casas e sem preocupações na administração de eventos.Esse app é destinado para aqueles que buscam um churrasco de qualidade e perfeição, enquanto relaxam na piscina sabendo que seu bife não passará do ponto. 
+Com o intuito de ajudar este nicho de mercado, o objetivo deste trabalho é criar o App Brasa Acesa, para ajudar a produção de churrascos de qualidade, sem sair do conforto de suas casas e sem preocupações na administração de eventos. Esse app é destinado para aqueles que buscam um churrasco de qualidade e perfeição, enquanto relaxam na piscina sabendo que seu bife não passará do ponto. 
 
-                                              2
-1. Descrição do Problema 
+
+
+
+
+
+1.0. Descrição do Problema
 
 Organizar um churrasco não é uma tarefa trivial e muitas pessoas acabam terceirizando para um profissional do ramo.
 Iniciando por encontrar um profissional de qualidade e equipamentos necessários para realização do churrasco;
 Realizar o cálculo da quantidade necessária de carnes por cada pessoa;
 Valor das carnes;
-Para usarmos o aplicativo, precisamos encontrar churrasqueiros, se eles estarão disponíveis para oferecerem seus serviços para os eventos, festas, etc. Pesquisar valores das carnes, petiscos e cortes de frango. A  dificuldade para calcular a quantidade e valor que o churrasqueiro irá sugerir que o cliente vá investir na compra das carnes.
 
-2. Objetivos de Negócio da Solução 
+Para usarmos o aplicativo, precisamos encontrar churrasqueiros, se eles estarão disponíveis para oferecerem seus serviços para os eventos, festas, etc. Pesquisar valores das carnes, petiscos e cortes de frango. A  dificuldade para calcular a quantidade e valor que o churrasqueiro irá sugerir que o cliente vá investir na compra das carnes.
+Para uso no churrasco, sempre deve haver segurança, então necessita-se dos seguintes equipamentos:
+Avental Churrasco +  Luva;
+Estojo Porta-Facas;
+
+
+
+2.0 Objetivos de Negócio da Solução
 Criar um aplicativo que busque profissionais para consultoria de serviços relacionados à churrasco em geral. Onde busque a captação tanto de clientes quanto de churrasqueiros e promova um encontro de interesses e supra a necessidade do cliente que necessita de um profissional e também para o profissional, gerando uma renda extra. Dentro do aplicativo, será desenvolvido uma calculadora para calcular a quantidade necessária de carnes para quantas pessoas for no churrasco, solucionando a dúvida do cliente referente ao assunto. Temos a ideia de firmar parcerias com lojas, mercados e açougues, promovendo melhores preços em carnes para os clientes.
+2.1. Business Model Canvas 
+
+3.0 Ideação do Produto 
+
+
+3.1. Tipos de Usuário
+O tipo de usuário, o público alvo, direto do nosso projeto é consumidor e vendedor, ou seja, terá uma área específica para cada tipo de usuário. Terá instruções para leigos e iremos fazer com o máximo de facilidade e interação do usuário, iremos ficar muito em facilitar os acessos e principalmente em entender o que cada um quer.
+Para isso iremos abrir enquetes na Universidade para saber qual a grande dificuldade de cada um, iremos disponibilizar enquetes para pais de alunos, pessoas que têm mais dificuldade de acesso a internet.
+
+3.2 Funcionalidades da Plataforma
+A grande funcionalidade da plataforma é facilitar a vida de quem quer organizar um churrasco, e não sabe calcular o valor de um churrasco, não sabe as melhores carnes, as mais em contas ou então não tem um churrasqueiro presente.
+Acredito que com a chegada desse aplicativo ao mercado, isso vai facilitar muito quem quer aprender mais sobre como fazer um churrasco de qualidade e com o que deve se preocupar.
+A grande função é ajudar e orientar o usuário, o usuário pode entrar no nosso aplicativo e pode sair sem contratar nenhum serviço, mas ele não irá sair sem ter pelo menos uma noção básica de preços e produtos de qualidade.
+
+
+
+3.3. Produto Minimamente Viável
+
+MVP Fumaça
+Adotamos este tipo de Minimum Viable Product (Produto Minimamente Viável) pois ele encaixa perfeitamente no que buscamos, que é atingir um público alvo.
+Este método pode ser utilizado com mais eficácia em mídias sociais, para que tenha uma visibilidade maior. 
+Assim, não necessariamente precisaríamos lançar uma versão incompleta do aplicativo com chances de ter um prejuízo ou riscos maiores que poderiam vir a prejudicar o projeto. Podendo só gravar um vídeo de 30 segundos ou mais explicando passo a passo de como funcionaria, qual a finalidade do aplicativo, suas facilidades e despertar o interesse no público alvo. 
+O público que viesse a se interessar, mandaria uma e-mail solicitando acesso a uma versão fechada do aplicativo para que pudesse testar e dar alguns feedbacks do que poderia melhorar.
 
